@@ -1,8 +1,9 @@
-### Hi Geek!! 
+### Namaskar 🙏!! 
 <p align = "left"> <img src = "https://komarev.com/ghpvc/?username=Arpit957" alt = "Arpit957" /> </p>
-- 👋 I’m Arpit Tiwari, 4th year Undergraduate at UIET Kanpur.
-- 💻 I love doing competitive programming and learning new algorithms.
+- 👋 I’m Arpit Tiwari, Final year Undergrad at UIET Kanpur.
+- 💻 I love doing competitive programming and learning new algorithms and data structures.
 - 🌱 I'm exploring different fields in software development and learning new skills.
+- 💻 Currently I am exploring the domain of development using MERN stack.
 - ⚡ Hobby - Sports and Athletics
 - 📫 You can contact me through email - arpittiwari2001@gmail.com
 
